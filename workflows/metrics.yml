@@ -14,8 +14,6 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    environment:
-      name: production
     steps:
 
       # ======================
@@ -33,9 +31,6 @@ jobs:
           config_display: large
           config_padding: 0, 8 + 11%
           filename: metrics-base.svg
-          extras_css: |
-            h2 { color: #DC143C !important; }
-            .field svg { fill: #DC143C; }
 
       # ======================
       # 2. ACHIEVEMENTS
@@ -55,8 +50,6 @@ jobs:
           plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
           plugin_achievements_threshold: C
-          extras_css: |
-            h2 { color: #DC143C !important; }
 
       # ======================
       # 3. CODING HABITS
@@ -78,8 +71,6 @@ jobs:
           plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_from: 200
-          extras_css: |
-            h2 { color: #DC143C !important; }
 
       # ======================
       # 4. ISOMETRIC CALENDAR
@@ -97,8 +88,6 @@ jobs:
           filename: metrics-isocalendar.svg
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          extras_css: |
-            h2 { color: #DC143C !important; }
 
       # ======================
       # 5. MOST USED LANGUAGES
@@ -126,8 +115,6 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
-          extras_css: |
-            h2 { color: #DC143C !important; }
 
       # ======================
       # 6. TOPICS / TECHNOLOGIES
@@ -147,8 +134,6 @@ jobs:
           plugin_topics_mode: icons
           plugin_topics_limit: 0
           plugin_topics_sort: stars
-          extras_css: |
-            h2 { color: #DC143C !important; }
 
       # ======================
       # 7. RECENT ACTIVITY
@@ -170,5 +155,3 @@ jobs:
           plugin_activity_limit: 5
           plugin_activity_load: 300
           plugin_activity_visibility: all
-          extras_css: |
-            h2 { color: #DC143C !important; }
