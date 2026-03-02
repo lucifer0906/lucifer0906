@@ -34,15 +34,12 @@
   <img src="https://komarev.com/ghpvc/?username=lucifer0906&style=for-the-badge&color=DC143C&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
-<br/>
-
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                     BASE PROFILE + NOTABLE CONTRIBUTIONS              -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                        BASE PROFILE (full width)                      -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="metrics-base.svg" width="49%" alt="Base Metrics" />
-  <img src="metrics-notable.svg" width="49%" alt="Notable Contributions" />
+  <img src="metrics-base.svg" width="99%" alt="Base Metrics" />
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
@@ -55,45 +52,39 @@
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                     TOPICS + LANGUAGES                                -->
+<!--                    LANGUAGES + NOTABLE CONTRIBUTIONS                  -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="metrics-topics.svg" width="49%" alt="Topics & Technologies" />
   <img src="metrics-languages.svg" width="49%" alt="Most Used Languages" />
+  <img src="metrics-notable.svg" width="49%" alt="Notable Contributions" />
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                       RECENT ACTIVITY                                 -->
+<!--                     TOPICS (full width, centered)                     -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="metrics-activity.svg" width="99%" alt="Recent Activity" />
+  <img src="metrics-topics.svg" width="99%" alt="Topics & Technologies" />
 </p>
 
-<br/>
-
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                     PINNED REPOSITORIES                               -->
+<!--                     PINNED REPOSITORIES (3 in a row)                  -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <h2 align="center">📌 Pinned Repositories</h2>
 
 <p align="center">
   <a href="https://github.com/lucifer0906/RIFT">
-    <img src="https://socialify.git.ci/lucifer0906/RIFT/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Solid&stargazers=1&theme=Dark" width="49%" alt="RIFT" />
+    <img src="https://socialify.git.ci/lucifer0906/RIFT/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Solid&stargazers=1&theme=Dark" width="32%" alt="RIFT" />
   </a>
-  <a href="https://github.com/lucifer0906/ChargeIndia-Frontend">
-    <img src="https://socialify.git.ci/lucifer0906/ChargeIndia-Frontend/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Solid&stargazers=1&theme=Dark" width="49%" alt="ChargeIndia Frontend" />
+  <a href="https://github.com/lucifer0906/VentureLens">
+    <img src="https://socialify.git.ci/lucifer0906/VentureLens/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Solid&stargazers=1&theme=Dark" width="32%" alt="VentureLens" />
   </a>
-</p>
-<p align="center">
   <a href="https://github.com/lucifer0906/Inclusionscore-AI">
-    <img src="https://socialify.git.ci/lucifer0906/Inclusionscore-AI/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Solid&stargazers=1&theme=Dark" width="49%" alt="Inclusionscore AI" />
+    <img src="https://socialify.git.ci/lucifer0906/Inclusionscore-AI/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Solid&stargazers=1&theme=Dark" width="32%" alt="Inclusionscore AI" />
   </a>
 </p>
-
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                          FOOTER                                       -->
