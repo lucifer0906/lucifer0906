@@ -35,11 +35,21 @@
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                        BASE PROFILE (full width)                      -->
+<!--                     BASE PROFILE + LANGUAGES                          -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="metrics-base.svg" width="99%" alt="Base Metrics" />
+  <img src="metrics-base.svg" width="49%" alt="Base Metrics" />
+  <img src="metrics-languages.svg" width="49%" alt="Most Used Languages" />
+</p>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                  NOTABLE CONTRIBUTIONS + TOPICS                       -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<p align="center">
+  <img src="metrics-notable.svg" width="49%" alt="Notable Contributions" />
+  <img src="metrics-topics.svg" width="49%" alt="Topics & Technologies" />
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
@@ -49,23 +59,6 @@
 <p align="center">
   <img src="metrics-habits.svg" width="49%" alt="Coding Habits" />
   <img src="metrics-isocalendar.svg" width="49%" alt="Isometric Calendar" />
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                    LANGUAGES + NOTABLE CONTRIBUTIONS                  -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<p align="center">
-  <img src="metrics-languages.svg" width="49%" alt="Most Used Languages" />
-  <img src="metrics-notable.svg" width="49%" alt="Notable Contributions" />
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                     TOPICS (full width, centered)                     -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<p align="center">
-  <img src="metrics-topics.svg" width="99%" alt="Topics & Technologies" />
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
