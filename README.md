@@ -35,21 +35,27 @@
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                     BASE PROFILE + LANGUAGES                          -->
+<!--              BASE (left) + NOTABLE & LANGUAGES stacked (right)        -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="50%" valign="top">
+      <img src="metrics-base.svg" width="100%" alt="Base Metrics" />
+    </td>
+    <td width="50%" valign="top">
+      <img src="metrics-notable.svg" width="100%" alt="Notable Contributions" />
+      <img src="metrics-languages.svg" width="100%" alt="Most Used Languages" />
+    </td>
+  </tr>
+</table>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                         TOPICS (full width)                           -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="metrics-base.svg" width="49%" alt="Base Metrics" />
-  <img src="metrics-languages.svg" width="49%" alt="Most Used Languages" />
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                  NOTABLE CONTRIBUTIONS + TOPICS                       -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<p align="center">
-  <img src="metrics-notable.svg" width="49%" alt="Notable Contributions" />
-  <img src="metrics-topics.svg" width="49%" alt="Topics & Technologies" />
+  <img src="metrics-topics.svg" width="99%" alt="Topics & Technologies" />
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
