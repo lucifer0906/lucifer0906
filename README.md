@@ -81,15 +81,15 @@
 
 <p align="center">
   <a href="https://github.com/lucifer0906/RIFT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucifer0906&repo=RIFT&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=DC143C&icon_color=DC143C&text_color=c9d1d9" />
-  </a>&nbsp;&nbsp;
+    <img src="https://socialify.git.ci/lucifer0906/RIFT/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Solid&stargazers=1&theme=Dark" width="49%" alt="RIFT" />
+  </a>
   <a href="https://github.com/lucifer0906/ChargeIndia-Frontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucifer0906&repo=ChargeIndia-Frontend&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=DC143C&icon_color=DC143C&text_color=c9d1d9" />
+    <img src="https://socialify.git.ci/lucifer0906/ChargeIndia-Frontend/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Solid&stargazers=1&theme=Dark" width="49%" alt="ChargeIndia Frontend" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/lucifer0906/Inclusionscore-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucifer0906&repo=Inclusionscore-AI&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=DC143C&icon_color=DC143C&text_color=c9d1d9" />
+    <img src="https://socialify.git.ci/lucifer0906/Inclusionscore-AI/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Solid&stargazers=1&theme=Dark" width="49%" alt="Inclusionscore AI" />
   </a>
 </p>
 
@@ -100,7 +100,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=80&section=footer" width="100%" />
+  <img src="assets/footer-wave.svg" width="100%" alt="Footer Wave" />
 </p>
 
 <p align="center">
