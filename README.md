@@ -37,79 +37,59 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                     METRICS — ROW 1                                   -->
-<!--              Base Profile  |  Achievements                            -->
+<!--                     BASE PROFILE + ACHIEVEMENTS                       -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="50%" align="center">
-      <img src="metrics-base.svg" alt="Base Metrics" width="100%" />
-    </td>
-    <td width="50%" align="center">
-      <img src="metrics-achievements.svg" alt="Achievements" width="100%" />
-    </td>
-  </tr>
+<p align="center">
+  <img src="metrics-base.svg" width="49%" alt="Base Metrics" />
+  <img src="metrics-achievements.svg" width="49%" alt="Achievements" />
+</p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                     METRICS — ROW 2                                   -->
-<!--              Coding Habits  |  Isometric Calendar                     -->
+<!--                  CODING HABITS + ISOMETRIC CALENDAR                   -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-  <tr>
-    <td width="50%" align="center">
-      <img src="metrics-habits.svg" alt="Coding Habits" width="100%" />
-    </td>
-    <td width="50%" align="center">
-      <img src="metrics-isocalendar.svg" alt="Isometric Calendar" width="100%" />
-    </td>
-  </tr>
+<p align="center">
+  <img src="metrics-habits.svg" width="49%" alt="Coding Habits" />
+  <img src="metrics-isocalendar.svg" width="49%" alt="Isometric Calendar" />
+</p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                     METRICS — ROW 3                                   -->
-<!--              Topics/Tech  |  Languages                                -->
+<!--                     TOPICS + LANGUAGES                                -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-  <tr>
-    <td width="50%" align="center">
-      <img src="metrics-topics.svg" alt="Topics & Technologies" width="100%" />
-    </td>
-    <td width="50%" align="center">
-      <img src="metrics-languages.svg" alt="Most Used Languages" width="100%" />
-    </td>
-  </tr>
+<p align="center">
+  <img src="metrics-topics.svg" width="49%" alt="Topics & Technologies" />
+  <img src="metrics-languages.svg" width="49%" alt="Most Used Languages" />
+</p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                     METRICS — ROW 4                                   -->
-<!--                     Recent Activity (Full Width)                      -->
+<!--                       RECENT ACTIVITY                                 -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-  <tr>
-    <td colspan="2" align="center">
-      <img src="metrics-activity.svg" alt="Recent Activity" width="100%" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="metrics-activity.svg" width="99%" alt="Recent Activity" />
+</p>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                     FEATURED PROJECTS                                 -->
+<!--                     PINNED REPOSITORIES                               -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">🔥 Featured Projects</h2>
+<h2 align="center">📌 Pinned Repositories</h2>
 
 <p align="center">
   <a href="https://github.com/lucifer0906/RIFT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucifer0906&repo=RIFT&theme=radical&hide_border=true&bg_color=0d1117&title_color=DC143C&icon_color=DC143C&text_color=c9d1d9" width="47%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucifer0906&repo=RIFT&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=DC143C&icon_color=DC143C&text_color=c9d1d9" />
   </a>&nbsp;&nbsp;
   <a href="https://github.com/lucifer0906/ChargeIndia">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucifer0906&repo=ChargeIndia&theme=radical&hide_border=true&bg_color=0d1117&title_color=DC143C&icon_color=DC143C&text_color=c9d1d9" width="47%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucifer0906&repo=ChargeIndia&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=DC143C&icon_color=DC143C&text_color=c9d1d9" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/lucifer0906/Inclusionscore-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucifer0906&repo=Inclusionscore-AI&theme=radical&hide_border=true&bg_color=0d1117&title_color=DC143C&icon_color=DC143C&text_color=c9d1d9" width="47%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucifer0906&repo=Inclusionscore-AI&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=DC143C&icon_color=DC143C&text_color=c9d1d9" />
   </a>
 </p>
 
