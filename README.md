@@ -37,12 +37,12 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                     BASE PROFILE + ACHIEVEMENTS                       -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                     BASE PROFILE + NOTABLE CONTRIBUTIONS              -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
   <img src="metrics-base.svg" width="49%" alt="Base Metrics" />
-  <img src="metrics-achievements.svg" width="49%" alt="Achievements" />
+  <img src="metrics-notable.svg" width="49%" alt="Notable Contributions" />
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->

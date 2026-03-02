@@ -22,8 +22,8 @@ jobs:
           config_timezone: Asia/Kolkata
           filename: metrics-base.svg
 
-      # ═══════ ACHIEVEMENTS ═══════
-      - name: Achievements
+      # ═══════ NOTABLE CONTRIBUTIONS ═══════
+      - name: Notable Contributions
         uses: dkhokhlov/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
@@ -31,9 +31,10 @@ jobs:
           template: classic
           base: ""
           config_timezone: Asia/Kolkata
-          filename: metrics-achievements.svg
-          plugin_achievements: yes
-          plugin_achievements_display: compact
+          filename: metrics-notable.svg
+          plugin_notable: yes
+          plugin_notable_from: all
+          plugin_notable_repositories: yes
 
       # ═══════ CODING HABITS ═══════
       - name: Coding Habits
@@ -92,8 +93,9 @@ jobs:
           config_timezone: Asia/Kolkata
           filename: metrics-topics.svg
           plugin_topics: yes
-          plugin_topics_mode: icons
+          plugin_topics_mode: mastered
           plugin_topics_limit: 0
+          plugin_topics_sort: stars
 
       # ═══════ RECENT ACTIVITY ═══════
       - name: Recent Activity
