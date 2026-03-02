@@ -24,10 +24,10 @@
   <a href="https://github.com/lucifer0906">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>&nbsp;
-  <a href="https://linkedin.com/in/chetan-shelar">
+  <a href="https://linkedin.com/in/chetanshelar20">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;
-  <a href="mailto:chetanshelar@example.com">
+  <a href="mailto:chetanshelar202006@gmail.com">
     <img src="https://img.shields.io/badge/Email-DC143C?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <br/>
@@ -83,8 +83,8 @@
   <a href="https://github.com/lucifer0906/RIFT">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucifer0906&repo=RIFT&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=DC143C&icon_color=DC143C&text_color=c9d1d9" />
   </a>&nbsp;&nbsp;
-  <a href="https://github.com/lucifer0906/ChargeIndia">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucifer0906&repo=ChargeIndia&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=DC143C&icon_color=DC143C&text_color=c9d1d9" />
+  <a href="https://github.com/lucifer0906/ChargeIndia-Frontend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucifer0906&repo=ChargeIndia-Frontend&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=DC143C&icon_color=DC143C&text_color=c9d1d9" />
   </a>
 </p>
 <p align="center">
